@@ -1,5 +1,6 @@
 # Can_AI_Experience_Brainrot
 Macaulay Honors College
+****
 Authors: Joseph Geraci, Angie Mekki, Nicholas Runfola, Kateryna Taranenko (CUNY College of Staten Island)
 
 ****
